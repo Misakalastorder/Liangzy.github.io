@@ -23,7 +23,7 @@ repository               : "Misakalastorder/Liangzy.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_me.jpg"
+  avatar           : "profile_me.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
