@@ -24,13 +24,13 @@ repository               : "Misakalastorder/Liangzy.github.io"
 author:
   # Biographic information
   avatar           : "profile_me.png"
-  name             : "Your Sidebar Name"
+  name             : "Liang Ziyan"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Less is more"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Sun Yat-sen University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "liangzy37@mail2.sysu.edu.cn" 
 
   # Academic websites
   academia         : # URL
